@@ -1,6 +1,6 @@
 # red-tomato
 🍽️ Jenan's Burger
-Welcome to Gourmet Haven, your ultimate destination for a delightful culinary experience! This README provides an overview of the restaurant, its mission, services, and information relevant to the digital project (e.g., website or app).
+Welcome to Jenans's Burger, our ultimate destination for a delightful culinary experience! This README provides an overview of the restaurant, its mission, services, and information relevant to the digital project (e.g., website or app).
 
 🌟 About Us
 Jenan's Burger is a family-owned Fast Food restaurant that brings a fusion of classic flavors and modern cooking techniques to your Burgers. Located in the heart of the city, we pride ourselves on exceptional service, locally-sourced ingredients, and an ever-evolving seasonal menu.
